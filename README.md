@@ -51,7 +51,7 @@
 ## 🛠️ Teknolojiler
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,mysql,postgres,docker,git,flutter" />
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,python,mssql,postgres,git,flutter" />
 </p>
 
 ---
@@ -94,6 +94,7 @@
 ---
 
 ## 🌐 Bana Ulaşın
+
 
 <p align="center">
 
